@@ -77,51 +77,7 @@ I'm **Behailu Yifru**, a dedicated Computer Science student with a drive to solv
 
 <br>
 
-<!-- HIGHLIGHT CURRENT PROJECTS / PINNED REPOS (MANUAL SHOWCASE) -->
-### 🔥 What I'm Up To
-<!-- Note: Update these with your actual repositories when you create them -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Project 1</h3>
-      <p><b>TaskFlow</b> — A minimalist task management app built with React and Node.js. <br> 
-      <a href="https://github.com/behailu412/taskflow">🔗 Repo</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project 2</h3>
-      <p><b>AlgoVisualizer</b> — Sorting & pathfinding algorithms visualized with p5.js. <br>
-      <a href="https://github.com/behailu412/algovisualizer">🔗 Repo</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Project 3</h3>
-      <p><b>LibraryMS</b> — Library management system (Java, Spring Boot, MySQL). <br>
-      <a href="https://github.com/behailu412/libraryms">🔗 Repo</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project 4</h3>
-      <p><b>Portfolio Site</b> — My personal portfolio (coming soon). <br>
-      <a href="#">🔗 Repo (private)</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
 
 <!-- STREAK STATS FOR EXTRA VISUAL APPEAL - Fixed with correct username -->
 <div align="center">
