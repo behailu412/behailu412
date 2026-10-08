@@ -17,8 +17,10 @@
   </a>
   <!-- GitHub followers (dynamic) -->
   <img src="https://img.shields.io/github/followers/behailu412?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub followers"/>
-  <!-- Profile views (dynamic) -->
-  <img src="https://komarev.com/ghpvc/?username=behailu412&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+<!-- Profile views (dynamic) -->
+<a href="https://hits.sh/github.com/behailu412/">
+  <img src="https://hits.sh/github.com/behailu412.svg?style=for-the-badge&label=Profile%20Views&color=2ea043&labelColor=0d1117" alt="Profile views"/>
+</a>
   <!-- CS Student badge -->
   <img src="https://img.shields.io/badge/CS-Student-6A4E9C?style=for-the-badge&logo=java&logoColor=white" alt="CS Student"/>
   <br><br>
