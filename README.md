@@ -140,23 +140,6 @@ Responsive interfaces focused on usability, simplicity and visual quality.
 ---
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=behailu412&hide_border=true&border_radius=14&background=0D1117&ring=2F81F7&fire=FF9F1C&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=2F81F7&sideLabels=8B949E&dates=8B949E&date_format=M%20j%5B%2C%20Y%5D" width="95%" alt="GitHub streak and total contributions"/>
-</div>
-
-<br>
-
-<div align="center">
-  <b>🟩 Contribution Calendar</b><br><br>
-  <a href="https://github.com/behailu412">
-    <img src="https://ghchart.rshah.org/2F81F7/behailu412" width="95%" alt="Contribution calendar"/>
-  </a>
-</div>
-
-<br>
-
 
 
 # 🤝 Let's Connect
